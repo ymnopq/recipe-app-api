@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin as BaseUserAdmin
 from django.utils.translation import gettext as _
+=======
+# from django.contrib import admin
+>>>>>>> 26db91872554bc44615fe1b4942e16b423481de8
 
 from core import models
 
